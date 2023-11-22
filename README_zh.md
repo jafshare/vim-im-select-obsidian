@@ -34,6 +34,8 @@
 
 **首次激活插件，完成设定后需要重启Obsidian**
 
+windows平台需要先安装： [im-select](https://github.com/daipeihust/im-select/raw/master/win/out/x86/im-select.exe)
+
 如果需要知道更多详情：
 
 - Windows平台切换输入法解决方案[im-select](https://github.com/daipeihust/im-select)
