@@ -34,7 +34,11 @@
 
 **首次激活插件，完成设定后需要重启Obsidian**
 
-windows平台需要先安装： [im-select](https://github.com/daipeihust/im-select/raw/master/win/out/x86/im-select.exe)
+windows平台(推荐安装): [im-select-mspy](https://github.com/daipeihust/im-select/tree/master/win-mspy)支持在中文输入法下直接切换英文模式，而不是像 `im-select` 切换为英文输入法, 解决家庭中文版只有一种输入法的问题，支持微软输入法，理论上也支持其他的输入法
+
+windows平台安装(上面那种不行的话再安装)： [im-select](https://github.com/daipeihust/im-select/blob/master/win/out/x64/im-select.exe)
+
+输入法码值对应: [输入法码值](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/available-language-packs-for-windows?view=windows-11#language-packs)
 
 如果需要知道更多详情：
 
